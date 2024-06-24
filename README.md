@@ -1,4 +1,5 @@
 ## Hi there 👋
+My name is Amit Bhongiri and I am a computer science student at UC Davis
 
 <!--
 **BhongiriAmit/BhongiriAmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
